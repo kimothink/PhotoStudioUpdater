@@ -8,9 +8,4 @@ https://raw.githubusercontent.com/kimothink/PhotoStudioUpdater/main/manifest.jso
 
 To publish an update, run the **Release PhotoStudio update package** workflow and enter a version higher than the installed app version, for example `1.0.2.0`.
 
-The workflow creates a GitHub Release containing:
-
-- `PhotoStudio.update.zip`
-- `manifest.json`
-
-`manifest.json` points PhotoStudio to the release asset URL and includes the SHA-256 hash that `Updater.exe` verifies before replacing files.
+The update ZIP is stored through Git LFS. `manifest.json` uses a `media.githubusercontent.com` URL so PhotoStudio downloads the actual ZIP instead of the LFS pointer file.
