@@ -1,7 +1,7 @@
 ﻿{
     "version":  "1.0.0",
-    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio1.0.1.zip",
-    "sha256":  "89C3C9DCFECDC825903D4C52C4A3C22276BF5FD0A13C90432F16B96127939014",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio1.0.0.zip",
+    "sha256":  "E909124FB09C9895B088E4DD5A5FD1DA97EB8FB42651FEB89E0CC708247B9F6F",
     "launchExecutable":  "PhotoStudio.exe",
     "releaseNotes":  "1.0.0\n- PhotoStudio update"
 }
