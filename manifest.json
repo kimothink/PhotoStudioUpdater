@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.0.0",
-    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio1.0.0.zip",
-    "sha256":  "E909124FB09C9895B088E4DD5A5FD1DA97EB8FB42651FEB89E0CC708247B9F6F",
-    "launchExecutable":  "PhotoStudio.exe",
-    "releaseNotes":  "1.0.0\n- PhotoStudio update"
+{
+  "version": "1.0.1",
+  "packageUrl": "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio1.0.1.zip",
+  "sha256": "89C3C9DCFECDC825903D4C52C4A3C22276BF5FD0A13C90432F16B96127939014",
+  "launchExecutable": "PhotoStudio.exe",
+  "releaseNotes": "1.0.1\n- 체크한 사진 개수를 상단에 표시하도록 개선\n- 6번 디즈니 필터 추가\n- PhotoStudioPage에 실제 프로그램 화면 이미지와 상세 기능 설명 추가\n- Facebook 및 Threads 공유 미리보기를 위한 OG 이미지와 메타 태그 정리\n- Microsoft Store 배포용 버전 및 패키지 설정을 1.0.1로 업데이트"
 }
