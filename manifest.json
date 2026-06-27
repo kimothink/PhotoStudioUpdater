@@ -1,7 +1,7 @@
-{
-  "version": "2.0.0",
-  "packageUrl": "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio2.0.0.zip",
-  "sha256": "74B807BF9B086DBD43CF7951488FD44A2E75DED3189204C0C270B9A034120B8A",
-  "launchExecutable": "PhotoStudio.exe",
-  "releaseNotes": "2.0.0\n- Canon CR3/CR2/CRW RAW 파일 불러오기 지원\n- Sony ARW/SR2/SRF RAW 파일 불러오기 지원\n- Nikon NEF/NRW RAW 파일 불러오기 지원\n- Ricoh GR DNG 파일 불러오기 지원\n- RAW 파일 썸네일, 미리보기, 보정, 내보내기 저장 지원\n- 프로그램 실행 시 새 버전이 있으면 자동 업데이트 실행"
+﻿{
+    "version":  "2.0.1",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio2.0.1.zip",
+    "sha256":  "DCCE7531D9EB87DA78209B12C72F897A740C6EA253D88DB174D3255534B50718",
+    "launchExecutable":  "PhotoStudio.exe",
+    "releaseNotes":  "2.0.1\n- 업데이트 중 PhotoStudio 종료 처리 오류 수정\n- Updater를 임시 폴더에서 실행해 업데이트 파일 교체 안정성 개선\n- 수동 업데이트 실행 시 앱을 자동 종료하도록 개선\n- 다음 업데이트부터 Updater 실행 파일도 함께 갱신되도록 보완"
 }
