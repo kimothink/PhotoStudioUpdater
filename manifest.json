@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.0.1",
-    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio2.0.1.zip",
-    "sha256":  "DCCE7531D9EB87DA78209B12C72F897A740C6EA253D88DB174D3255534B50718",
+    "version":  "3.0.0",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.0.zip",
+    "sha256":  "F323EF73260F7405B7AEB3BD5F3BE25423AD90331DE82F962B7EB33870C0F111",
     "launchExecutable":  "PhotoStudio.exe",
-    "releaseNotes":  "2.0.1\n- 업데이트 중 PhotoStudio 종료 처리 오류 수정\n- Updater를 임시 폴더에서 실행해 업데이트 파일 교체 안정성 개선\n- 수동 업데이트 실행 시 앱을 자동 종료하도록 개선\n- 다음 업데이트부터 Updater 실행 파일도 함께 갱신되도록 보완"
+    "releaseNotes":  "3.0.0\n- 체크 항목 일괄 수정 패널 개선\n- 공지사항 메뉴 및 최신 공지 팝업 추가\n- 다음 공지 전까지 실행 공지 숨김 옵션 추가\n- 필터, 프레임, 내보내기 동작 개선"
 }
