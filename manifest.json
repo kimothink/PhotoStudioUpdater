@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "3.0.0",
-    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.0.zip",
-    "sha256":  "F323EF73260F7405B7AEB3BD5F3BE25423AD90331DE82F962B7EB33870C0F111",
+    "version":  "3.0.1",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.1.zip",
+    "sha256":  "191D6A35322A1ABC435804A7AA72B17133B707769C00FE165516DAF54FE4BD75",
     "launchExecutable":  "PhotoStudio.exe",
-    "releaseNotes":  "3.0.0\n- 체크 항목 일괄 수정 패널 개선\n- 공지사항 메뉴 및 최신 공지 팝업 추가\n- 다음 공지 전까지 실행 공지 숨김 옵션 추가\n- 필터, 프레임, 내보내기 동작 개선"
+    "releaseNotes":  "3.0.1\n- PhotoStudio update"
 }
