@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "3.0.1",
-    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.1.zip",
-    "sha256":  "191D6A35322A1ABC435804A7AA72B17133B707769C00FE165516DAF54FE4BD75",
+    "version":  "3.0.2",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.2.zip",
+    "sha256":  "C8F5E556F01E483203E9938781B41EEA51727C33D292D7E1BE8D82B59882FD7E",
     "launchExecutable":  "PhotoStudio.exe",
-    "releaseNotes":  "3.0.1\n- PhotoStudio update"
+    "releaseNotes":  "3.0.2\n- RAW/NEF 세로 사진이 가로로 표시되던 문제 수정\n- RAW 내부 미리보기에도 원본 방향 정보를 적용하도록 개선\n- 프로그램 해상도 옵션 추가\n- 좌우 패널 분할선 손잡이와 크기 조절 커서 추가\n- 창 크기 변경 후 오른쪽 빈 공간이 남는 문제 수정\n- 사진 목록 우클릭 정렬 및 선택 항목 메뉴 추가\n- 사진 카드 해상도 표시 추가"
 }
