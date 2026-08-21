@@ -1,7 +1,7 @@
-{
-  "version": "3.0.3",
-  "packageUrl": "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.3.zip",
-  "sha256": "D95F574756EAEA928AD2373D06838A3EC612CB0119D3F136C4031B8DB8B3BF10",
-  "launchExecutable": "PhotoStudio.exe",
-  "releaseNotes": "3.0.3\n- 노출, 대비 등 사진 보정 범위를 -100부터 +100까지 확대\n- 한국어/English 화면 언어 전환 기능 추가\n- 파일 메뉴에 로그아웃과 회원 탈퇴 등 계정 관리 기능 추가\n- 로그인 화면에 개인정보처리방침 추가\n- 버전 메뉴에 후원 페이지 연결 추가\n- RAW/NEF 방향 정보 인식 안정성 개선"
+﻿{
+    "version":  "3.0.2",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.2.zip",
+    "sha256":  "C8F5E556F01E483203E9938781B41EEA51727C33D292D7E1BE8D82B59882FD7E",
+    "launchExecutable":  "PhotoStudio.exe",
+    "releaseNotes":  "3.0.2\n- RAW/NEF 세로 사진이 가로로 표시되던 문제 수정\n- RAW 내부 미리보기에도 원본 방향 정보를 적용하도록 개선\n- 프로그램 해상도 옵션 추가\n- 좌우 패널 분할선 손잡이와 크기 조절 커서 추가\n- 창 크기 변경 후 오른쪽 빈 공간이 남는 문제 수정\n- 사진 목록 우클릭 정렬 및 선택 항목 메뉴 추가\n- 사진 카드 해상도 표시 추가"
 }
