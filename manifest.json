@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "3.0.4",
-    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.4.zip",
-    "sha256":  "6B7CA0C3B586F7FD23D329FFEC452BA35059126ACE565D3CF3F025E97169FC73",
+    "version":  "3.0.5",
+    "packageUrl":  "https://media.githubusercontent.com/media/kimothink/PhotoStudioUpdater/main/PhotoStudio3.0.5.zip",
+    "sha256":  "8C86AB972A433699A77B8CB342330FA029F6F0CCF9C044C3691451BFC0185951",
     "launchExecutable":  "PhotoStudio.exe",
-    "releaseNotes":  "3.0.4\n- NSIS 설치/업데이트 후 프로그램이 시작되지 않던 문제 수정\n- 언어 설정과 공지 숨김 설정을 비패키지 설치 환경에서도 안전하게 저장하도록 개선\n- 노출, 대비 등 사진 보정 범위를 -100부터 +100까지 확대\n- 사진별 보정값이 다른 사진 선택 후에도 초기화되지 않도록 수정\n- 한국어/English 화면 언어 전환 기능 추가\n- 파일 메뉴에 로그아웃, 회원 탈퇴, 종료 기능 추가\n- 로그인 화면 개인정보처리방침에 만 14세 미만 아동 안내와 문의 링크 추가\n- 후원 메뉴에 후원 페이지와 개발자에게 톡하기 연결 추가\n- RAW/NEF 방향 정보 인식 안정성 개선"
+    "releaseNotes":  "3.0.5\n- 자동 업데이트 후 제어판 프로그램 버전이 이전 버전으로 남던 문제 수정\n- 업데이트 완료 시 제어판 표시 버전, 게시자, 설치 경로 정보를 함께 갱신\n- NSIS 설치/업데이트 후 프로그램이 시작되지 않던 문제 수정\n- 언어 설정과 공지 숨김 설정을 비패키지 설치 환경에서도 안전하게 저장하도록 개선\n- 노출, 대비 등 사진 보정 범위를 -100부터 +100까지 확대\n- 사진별 보정값이 다른 사진 선택 후에도 초기화되지 않도록 수정\n- 한국어/English 화면 언어 전환 기능 추가\n- 파일 메뉴에 로그아웃, 회원 탈퇴, 종료 기능 추가\n- 로그인 화면 개인정보처리방침에 만 14세 미만 아동 안내와 문의 링크 추가\n- 후원 메뉴에 후원 페이지와 개발자에게 톡하기 연결 추가\n- RAW/NEF 방향 정보 인식 안정성 개선"
 }
